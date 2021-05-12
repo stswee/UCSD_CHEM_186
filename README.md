@@ -8,3 +8,6 @@ Homework: module_2_hw.ipynb
 
 ## Module 4
 Homework: module_4_hw.ipynb
+
+## Module 6
+Homework: module_6_hw.ipynb
